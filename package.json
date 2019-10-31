@@ -1,0 +1,19 @@
+{
+  "name": "@zouzhiqiang/tang-vendor-webpack-plugin",
+  "version": "0.0.1",
+  "description": "tang小程序开发引入资源插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/webpack": "^4.39.5",
+    "webpack": "^4.41.2"
+  }
+}
