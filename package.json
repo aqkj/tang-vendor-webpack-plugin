@@ -1,6 +1,6 @@
 {
   "name": "@zouzhiqiang/tang-vendor-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "tang小程序开发引入资源插件",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [],
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aqkj/tang-vendor-webpack-plugin.git"
   },
   "author": "",
   "license": "MIT",
